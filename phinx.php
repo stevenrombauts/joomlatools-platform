@@ -6,6 +6,8 @@
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
+var_dump('test!');
+
 define('_JEXEC', 1);
 define('JPATH_ROOT'  , __DIR__);
 
